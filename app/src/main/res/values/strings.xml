@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pickasso</string>
+    <string name="line_width">Line Width</string>
+    <string name="clean">Clean</string>
+    <string name="save">Save</string>
+    <string name="erase">Erase</string>
+    <string name="color">Color</string>
+    <string name="set_width">Set Width</string>
+    <string name="label_alpha">Alpha</string>
+    <string name="label_blue">Blue</string>
+    <string name="label_green">Green</string>
+    <string name="label_red">Red</string>
+    <string name="set_color">Set Color</string>
+</resources>
